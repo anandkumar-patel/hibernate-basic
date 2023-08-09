@@ -1,0 +1,11 @@
+Runner.java :
+
+This file do crud operation on basis of session and transaction.
+
+
+HQL POINTS :
+
+1- 	In HQL, only the INSERT INTO … SELECT … is supported; there is no INSERT INTO … VALUES. 
+	HQL only support insert from another table.
+	
+2- 	
