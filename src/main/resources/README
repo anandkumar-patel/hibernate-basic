@@ -1,7 +1,9 @@
 Runner.java :
+	This file do crud operation on basis of session and transaction.
 
-This file do crud operation on basis of session and transaction.
 
+HqlRunner.java : 
+	This file do crud operation using hql
 
 HQL POINTS :
 

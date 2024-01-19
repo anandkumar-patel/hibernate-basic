@@ -22,8 +22,7 @@
 		<property name="hibernate.hbm2ddl.auto">create</property>
 
 		<!-- Annotated entity classes -->
-		<mapping class="anand.learn.one.Car" />
-		<mapping class="anand.learn.one.SetterRelated" />
+		<mapping class="anand.learn.Car" />
 
 	</session-factory>
 </hibernate-configuration>
